@@ -3,11 +3,14 @@ layout: resume
 title: Daniel Akalws's Resume
 ---
 # Daniel Akalws
-Computer Science Student and Enterpreneur
+*Computer Science Student and an Enterpreneur
 
 <div id="webaddress">
 <a href="aka19001@byui.edu">aka19001@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+
+| <a href="akalws@github.com">akalws@github.com</a>
+
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -15,7 +18,7 @@ Computer Science Student and Enterpreneur
 
 ## Education
 
-`2025-2027`
+`2020-2024`
 __Brigham Young University Idaho__, Rexburg Idaho, ID
 
 - Full academic scholarship with 3.9 GPA
@@ -30,7 +33,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
+`January 2022 - June 2022`
 __Pacific Northwest National Lab__, Richland, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
