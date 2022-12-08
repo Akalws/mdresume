@@ -64,19 +64,19 @@ __New Net Express—Shipping Clerk [July 2019-November 2019/Ghana]__
 -•	Followed all company and national safety procedures and standards.
 
 __The Church of Jesus Christ of Latter-day Saints —Full-Time Volunteer Representative [June 2016-June 2018/Nigeria]__
--• Supervised and motivated 100-170 full time volunteers, coordinated training, and organized service projects and meetings.
--• Invested 80+ hours per week teaching life improvements principles in Pidgin/Broken English.
+- Supervised and motivated 100-170 full time volunteers, coordinated training, and organized service projects and meetings.
+- Invested 80+ hours per week teaching life improvements principles in Pidgin/Broken English.
 
 ## Skills
--• Python Object Oriented, C++, C#, React Native, Tableau,Javascript
--• Power Point, Microsoft Office
--• Arduino Circuit
--• Cyber Security
+- Python Object Oriented, C++, C#, React Native, Tableau,Javascript
+- Power Point, Microsoft Office
+- Arduino Circuit
+- Cyber Security
 
 ## Awards & Acknowledgements
--• Executive member of the IEEE Society (Financial Secretary BYUI Branch)
--• Akalws/weather-update-app: a simple web app that tells you the weather of any location in the US (github.com)
--• Akalws (Daniel Akalws) (github.com)
+- Executive member of the IEEE Society (Financial Secretary BYUI Branch)
+- Akalws/weather-update-app: a simple web app that tells you the weather of any location in the US (github.com)
+- Akalws (Daniel Akalws) (github.com)
 
 
 <!-- ### Footer
