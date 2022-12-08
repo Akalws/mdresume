@@ -31,61 +31,56 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### Experience
 
-`January 2022 - June 2022`
-__Pacific Northwest National Lab__, Richland, WA
+__Python Asteroid Game [July 2021/BYU Idaho]__
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Designed an asteroid game in data structures using the Arcade Library.
 
-### Data Science Lead
+__Arduino Sensor Circuit [July 2020/BYU Idaho]__
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Designed a sensor circuit implemented with Arduino, which detects and displays the surrounding temperature and humidity every two seconds.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+__C++ Sudoku Algorithm [January 2020/BYU Idaho]__
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Designed and developed a sudoku solving algorithm in C++ which uses stochastic search to solve sudoku problems in under 1 second. 
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+__Microprocessor [March 2021/BYU Idaho]__
 
-### Data Science Consulting Team
+- Designed and developed a microprocessor that does simple arithmetic with the help of ALU (arithmetic logic unit), and a Prom.
 
-`January 2027 - April 2027`
-__Imagine Learning__
+__Poke man game [January 2022/BYU Idaho]__, 
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Designed and built a poke man game in C# with the use of classes and ray lib library.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+__New Net Express—Shipping Clerk [July 2019-November 2019/Ghana]__
+-•	Received incoming materials and picked orders based on supervisors’ instructions.
+-•	Prepared all outgoing materials for shipping by completing paperwork with the use of Ship Station application software.
+-•	Supervised the shipment of packages.
+-•	Maintained a clean and orderly work area.
+-•	Followed all company and national safety procedures and standards.
 
+__The Church of Jesus Christ of Latter-day Saints —Full-Time Volunteer Representative [June 2016-June 2018/Nigeria]__
+-• Supervised and motivated 100-170 full time volunteers, coordinated training, and organized service projects and meetings.
+-• Invested 80+ hours per week teaching life improvements principles in Pidgin/Broken English.
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Skills
+-• Python Object Oriented, C++, C#, React Native, Tableau,Javascript
+-• Power Point, Microsoft Office
+-• Arduino Circuit
+-• Cyber Security
 
+## Awards & Acknowledgements
+-• Executive member of the IEEE Society (Financial Secretary BYUI Branch)
+-• Akalws/weather-update-app: a simple web app that tells you the weather of any location in the US (github.com)
+-• Akalws (Daniel Akalws) (github.com)
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
