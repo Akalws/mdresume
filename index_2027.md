@@ -9,7 +9,7 @@ title: Daniel Akalws's Resume
 <a href="aka19001@byui.edu">aka19001@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 
-| <a href="akalws@github.com">akalws@github.com</a>
+| <a href="https://github.com/Akalws/akalws.github.io">https://github.com/Akalws/akalws.github.io</a>
 
 </div>
 
